@@ -24,7 +24,7 @@ To run the English to Hinglish Translation project, you'll need to install the f
    !pip install sentencepiece
    ```
 
-4. **PyTorch **: PyTorch is an open-source machine learning library.
+4. **PyTorch**: PyTorch is an open-source machine learning library.
 
    You can install it using the following command:
    ```
@@ -32,5 +32,5 @@ To run the English to Hinglish Translation project, you'll need to install the f
    ```
 
 # How it Works
-The pre-trained model (e.g., 'facebook/nllb-200-3.3B') used for translation.
+The pre-trained model ('facebook/nllb-200-3.3B') used for translation.
 Natural language processing techniques employed for tasks like part-of-speech tagging and word replacement.
