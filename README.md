@@ -24,7 +24,7 @@ To run the English to Hinglish Translation project, you'll need to install the f
    !pip install sentencepiece
    ```
 
-4. **PyTorch (if not already installed)**: PyTorch is an open-source machine learning library.
+4. **PyTorch **: PyTorch is an open-source machine learning library.
 
    You can install it using the following command:
    ```
